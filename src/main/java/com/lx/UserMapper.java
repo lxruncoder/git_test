@@ -6,5 +6,6 @@ public class UserMapper {
         System.out.println("hello world2");
         System.out.println("hello world3");
         System.out.println("hello world4");
+        System.out.println("hello master");
     }
 }
